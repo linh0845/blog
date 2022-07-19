@@ -1,11 +1,18 @@
 ---
-title:  "Monte Carlo Simulation for new-product development"
+title:  "Monte Carlo Simulation For A New Product"
 mathjax: true
 layout: post
 categories: media
 ---
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+
+## Monte Carlo Simulation
+
+Monte Carlo Simulation is common method in financial analysis. It is based on probabilistic technique to estimate the outcome in uncertain condition. More reference as below:
+
+[Published in Toward Data Science] (https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e) by Robert Kwiatkowski
+[Published in ScienceDirect] (https://www.sciencedirect.com/topics/economics-econometrics-and-finance/monte-carlo-simulation) by multiple authors
 
 
 ## Define Problem
@@ -18,11 +25,11 @@ ABC Company has a new-product development decision which involves a lot of uncer
 
 Suppose that the Company has identified the following uncertain variables in the model and the distributions and parameters that describe them, as follows:
 
-Market size: normal with mean of 2,000,000 units and standard deviation of 400,000 units. 
-R&D costs: uniform between $600,000,000 and $800,000,000. 
-Clinical trial costs: normal with mean of $150,000,000 and standard deviation $30,000,000. 
-Annual market growth factor: triangular with minimum = 2%, maximum 6%, and most likely = 3%. 
-Annual market share growth rate: triangular with minimum = 15%, maximum = 25%, and most likely = 20%. 
+a. Market size: normal with mean of 2,000,000 units and standard deviation of 400,000 units. 
+b. R&D costs: uniform between $600,000,000 and $800,000,000. 
+c. Clinical trial costs: normal with mean of $150,000,000 and standard deviation $30,000,000. 
+d. Annual market growth factor: triangular with minimum = 2%, maximum 6%, and most likely = 3%. 
+e. Annual market share growth rate: triangular with minimum = 15%, maximum = 25%, and most likely = 20%. 
 
 
 ## Code
