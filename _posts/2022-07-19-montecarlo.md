@@ -11,8 +11,9 @@ categories: media
 
 Monte Carlo Simulation is common method in financial analysis. It is based on probabilistic technique to estimate the outcome in uncertain condition. More reference as below:
 
-[Published in Toward Data Science] (https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e) by Robert Kwiatkowski
-[Published in ScienceDirect] (https://www.sciencedirect.com/topics/economics-econometrics-and-finance/monte-carlo-simulation) by multiple authors
+[Published in Toward Data Science] (https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e/) by Robert Kwiatkowski
+
+[Published in ScienceDirect] (https://www.sciencedirect.com/topics/economics-econometrics-and-finance/monte-carlo-simulation/) by multiple authors
 
 
 ## Define Problem
