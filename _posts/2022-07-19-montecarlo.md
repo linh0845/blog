@@ -26,10 +26,10 @@ ABC Company has a new-product development decision which involves a lot of uncer
 
 Suppose that the Company has identified the following uncertain variables in the model and the distributions and parameters that describe them, as follows:
 
-a. Market size: normal with mean of 2,000,000 units and standard deviation of 400,000 units. 
-b. R&D costs: uniform between $600,000,000 and $800,000,000. 
-c. Clinical trial costs: normal with mean of $150,000,000 and standard deviation $30,000,000. 
-d. Annual market growth factor: triangular with minimum = 2%, maximum 6%, and most likely = 3%. 
+a. Market size: normal with mean of 2,000,000 units and standard deviation of 400,000 units.  
+b. R&D costs: uniform between $600,000,000 and $800,000,000.  
+c. Clinical trial costs: normal with mean of $150,000,000 and standard deviation $30,000,000.  
+d. Annual market growth factor: triangular with minimum = 2%, maximum 6%, and most likely = 3%.  
 e. Annual market share growth rate: triangular with minimum = 15%, maximum = 25%, and most likely = 20%. 
 
 
