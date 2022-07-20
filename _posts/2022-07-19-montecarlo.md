@@ -7,7 +7,7 @@ categories: media
 
 ![Swiss Alps](https://images.unsplash.com/photo-1608556984766-105e2dc59706?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3132&q=80)
 
-## Monte Carlo Simulation
+## Introduction
 
 Monte Carlo Simulation is common method in financial analysis. It is based on probabilistic technique to estimate the outcome in uncertain condition. More reference as below:
 
@@ -16,6 +16,6 @@ Monte Carlo Simulation is common method in financial analysis. It is based on pr
 [Published in ScienceDirect](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/monte-carlo-simulation/) by multiple authors
 
 
-## Define Problem
+## Python code and result
 
 [Click](project/MCSMoore_Pharma.html) for more detail
