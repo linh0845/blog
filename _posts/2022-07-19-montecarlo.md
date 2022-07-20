@@ -18,7 +18,7 @@ Monte Carlo Simulation is common method in financial analysis. It is based on pr
 
 ## Python code and result
 
-[Click](_posts/2022-07-20-MCSMoore_Pharma.html) for more detail
+[Click](2022-07-20-MCSMoore_Pharma.html) for more detail
 <a href="2022-07-20-MCSMoore_Pharma.html">link</a>
 
 _posts/2022-07-20-MCSMoore_Pharma.html
