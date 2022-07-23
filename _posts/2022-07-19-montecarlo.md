@@ -27,3 +27,7 @@ _posts/2022-07-20-MCSMoore_Pharma.html
 https://github.com/linh0845/project/blob/master/project/MCSMoore_Pharma.html
 
 project/MCSMoore_Pharma.html
+
+<a href="asset/photo/forecast_horizon.png">Forecast Horizon</a>
+
+asset/photo/forecast_horizon.png
