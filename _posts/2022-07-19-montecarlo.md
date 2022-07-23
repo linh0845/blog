@@ -30,6 +30,7 @@ project/MCSMoore_Pharma.html
 
 <a href="asset/photo/forecast_horizon.png">Forecast Horizon</a>
 
-![my image](/../asset/photo/forecast_horizon.png)
+![my image](/../assets/forecast_horizon.png)
 
 asset/photo/forecast_horizon.png
+assets/forecast_horizon.png
