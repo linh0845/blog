@@ -18,23 +18,8 @@ Monte Carlo Simulation is common method in financial analysis. It is based on pr
 
 ## Python code and result
 
-[Click](2022-07-20-MCSMoore_Pharma.html) for more detail
-<a href="https://linh0845.github.io/project/_posts/2022-07-20-MCSMoore_Pharma.html">link1</a>
+[Click](https://linh0845.github.io/project/monte_carlo_product/) for more detail
 
-<a href="2022-07-20-MCSMoore_Pharma.html">link2</a>
-
-_posts/2022-07-20-MCSMoore_Pharma.html
-https://github.com/linh0845/project/blob/master/project/MCSMoore_Pharma.html
-
-project/MCSMoore_Pharma.html
-
-<a href="asset/photo/forecast_horizon.png">Forecast Horizon</a>
-
-![my image](/../assets/forecast_horizon.png)
+<a href="https://linh0845.github.io/project/monte_carlo_product/">Detail in Python</a>
 
 ![my image](../assets/forecast_horizon.png)
-
-asset/photo/forecast_horizon.png
-
-
-assets/forecast_horizon.png
