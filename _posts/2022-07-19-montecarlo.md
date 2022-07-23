@@ -32,5 +32,9 @@ project/MCSMoore_Pharma.html
 
 ![my image](/../assets/forecast_horizon.png)
 
+![my image](../assets/forecast_horizon.png)
+
 asset/photo/forecast_horizon.png
+
+
 assets/forecast_horizon.png
