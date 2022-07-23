@@ -29,5 +29,6 @@ https://github.com/linh0845/project/blob/master/project/MCSMoore_Pharma.html
 project/MCSMoore_Pharma.html
 
 <a href="asset/photo/forecast_horizon.png">Forecast Horizon</a>
+![my image](asset/photo/forecast_horizon.png)
 
 asset/photo/forecast_horizon.png
