@@ -9,6 +9,8 @@ categories: media
 ## What is PVM?  
 
 PVM is an approach to explain variance in revenue or margins caused by three main components: price, volume, and mix.  
+
+
 - Price impact: variation due to higher or lower price changes.  
 - Volume impact: variation due to total sales units.  
 - Mix impact: measures the impact resulting from a change in the proportion of a specific item to the total portfolio.  
